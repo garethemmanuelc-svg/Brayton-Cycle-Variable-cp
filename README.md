@@ -38,4 +38,19 @@ Future work will include component efficiencies, pressure losses, intercooling a
 3. Open the file brayton_cycle_variable_cp.m
 4. Run the script
 5. The program calculates compressor and turbine states and generates performance plots
-## 
+---
+
+## Results Visualisation
+
+### Thermal Efficiency vs Pressure Ratio
+![Thermal Efficiency](plots/efficiency.png)
+
+### Net Work Output vs Pressure Ratio
+![Net Work](plots/network.png)
+
+### Back Work Ratio
+![Back Work Ratio](plots/backwork.png)
+
+### Error Between Constant Cp and Variable Cp
+![Error](plots/error.png)
+

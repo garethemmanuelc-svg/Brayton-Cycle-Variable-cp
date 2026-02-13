@@ -39,28 +39,3 @@ Future work will include component efficiencies, pressure losses, intercooling a
 4. Run the script
 5. The program calculates compressor and turbine states and generates performance plots
 ---
-
-## Results Visualisation
-
-### Brayton Cycle Behaviour (Constant Cp)
-![Brayton Cycle](plots/Constant%20gamma%20Brayton%20Cycle.png)
-
-### Thermal Efficiency vs Pressure Ratio
-![Thermal Efficiency](plots/Constant%20gamma%20Brayton%20Cycle.png)
-
-### Net Work Output vs Pressure Ratio (Constant Cp)
-![Net Work Constant](plots/Net%20Work%20Output%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
-
-### Net Work Output vs Pressure Ratio (Variable Cp)
-![Net Work Variable](plots/Net%20Work%20Output%20vs%20Pressure%20Ratio%20Variable%20Cp.png)
-
-### Back Work Ratio vs Pressure Ratio (Constant Cp)
-![Back Work Constant](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
-
-### Back Work Ratio vs Pressure Ratio (Variable Cp)
-![Back Work Variable](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Variable%20Cp.png)
-
-### Error Between Constant Cp and Variable Cp
-![Error](plots/Error.png)
-
-

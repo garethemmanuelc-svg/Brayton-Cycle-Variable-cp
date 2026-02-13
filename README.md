@@ -39,3 +39,12 @@ Future work will include component efficiencies, pressure losses, intercooling a
 4. Run the script
 5. The program calculates compressor and turbine states and generates performance plots
 ---
+figure;
+plot(rp, eta_constant,'LineWidth',2); hold on;
+plot(rp, eta_variable,'LineWidth',2);
+xlabel('Pressure Ratio');
+ylabel('Thermal Efficiency');
+legend('Constant Cp','Variable Cp');
+grid on;
+
+saveas(gcf,'plots/efficiency.png');

@@ -43,7 +43,7 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ## Results Visualisation
 
 ### Thermal Efficiency vs Pressure Ratio
-![Thermal Efficiency](plots/efficiency.png)
+![Thermal Efficiency](plots/Constant gamma Brayton Cycle.png)
 
 ### Net Work Output vs Pressure Ratio
 ![Net Work](plots/network.png)

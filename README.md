@@ -49,31 +49,31 @@ Future work will include component efficiencies, pressure losses, intercooling a
 5. The program calculates compressor and turbine states and generates performance plots
 ---
 ---
-## Results Visualisation
+# Results Visualisation
 ## 1. Thermal Efficiency Comparison
 
-### Brayton Cycle (Constant Gamma Representation)
+### a) Brayton Cycle (Constant Gamma Representation)
 ![Brayton Cycle](plots/constant_cp.png)
 
 
-### Brayton Cycle (Variable Cp Gamma Representation)
+### b) Brayton Cycle (Variable Cp Gamma Representation)
 ![Brayton Cycle](plots/Variable%20Cp%20Brayton%20Cycle.png)
 
 ---
 ## 2. Network Output Comparison 
-### Net Work Output vs Pressure Ratio (Constant Cp)
+### a) Net Work Output vs Pressure Ratio (Constant Cp)
 ![net_variable](plots/net_constant.png)
 
 
-### Net Work Output vs Pressure Ratio (Variable Cp)
+### b) Net Work Output vs Pressure Ratio (Variable Cp)
 ![net_variable](plots/net_variable.png)
 
 ---
 ## 3. Back Work Comparison
-### Back Work Ratio vs Pressure Ratio (Constant Cp)
+### a) Back Work Ratio vs Pressure Ratio (Constant Cp)
 ![Back Work Constant](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
 
-### Back Work Ratio vs Pressure Ratio (Variable Cp)
+### b) Back Work Ratio vs Pressure Ratio (Variable Cp)
 ![Back Work Variable](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Variable%20Cp.png)
 
 ---

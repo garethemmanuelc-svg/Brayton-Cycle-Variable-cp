@@ -57,7 +57,7 @@ Future work will include component efficiencies, pressure losses, intercooling a
 
 
 ### Net Work Output vs Pressure Ratio (Variable Cp)
-plots/Net Work Output vs Pressure Ratio Variable Cp.png
+![net_variable](plots/net_variable.png)
 
 
 ### Back Work Ratio vs Pressure Ratio (Constant Cp)

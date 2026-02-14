@@ -61,7 +61,6 @@ Future work will include component efficiencies, pressure losses, intercooling a
 
 ---
 ## Network Output Comparison 
----
 ### Net Work Output vs Pressure Ratio (Constant Cp)
 ![net_variable](plots/net_constant.png)
 
@@ -71,7 +70,6 @@ Future work will include component efficiencies, pressure losses, intercooling a
 
 ---
 ## Back Work Comparison
----
 ### Back Work Ratio vs Pressure Ratio (Constant Cp)
 ![Back Work Constant](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
 
@@ -80,10 +78,10 @@ Future work will include component efficiencies, pressure losses, intercooling a
 
 ---
 ## Error Comparison
----
 ### Performance Error Due to Constant Cp Assumption
 ![Error](plots/Error.png)
 
+---
 ## Author
 ### Gareth Emmanuel Chingwe
 ### BSc Aerospace Engineering 

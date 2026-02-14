@@ -59,8 +59,9 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ### Brayton Cycle (Variable Cp Gamma Representation)
 ![Brayton Cycle](plots/Variable%20Cp%20Brayton%20Cycle.png)
 
+---
 ## Network Output Comparison 
-
+---
 ### Net Work Output vs Pressure Ratio (Constant Cp)
 ![net_variable](plots/net_constant.png)
 
@@ -68,16 +69,18 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ### Net Work Output vs Pressure Ratio (Variable Cp)
 ![net_variable](plots/net_variable.png)
 
-
+---
 ## Back Work Comparison
+---
 ### Back Work Ratio vs Pressure Ratio (Constant Cp)
 ![Back Work Constant](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
 
 ### Back Work Ratio vs Pressure Ratio (Variable Cp)
 ![Back Work Variable](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Variable%20Cp.png)
 
-
+---
 ## Error Comparison
+---
 ### Performance Error Due to Constant Cp Assumption
 ![Error](plots/Error.png)
 

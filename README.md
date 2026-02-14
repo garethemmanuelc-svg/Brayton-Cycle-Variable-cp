@@ -24,9 +24,11 @@ This project investigates how variable specific heat influences predicted effici
 - Parametric study for pressure ratio 5–50 and TIT 1200–1800 K
 ## Key Results
 - Constant cp model over-predicts thermal efficiency at high temperatures
+- Compressor work requirement increases when temperature-dependent specific heat is considered
 - Optimum pressure ratio shifts when variable cp is used
 - Back work ratio increases when real gas behaviour is considered
-- Error increases significantly as turbine inlet temperature rises
+- The modelling error increases significantly above approximately 1400–1500 K
+- Variable specific heat provides more realistic gas turbine performance prediction
 ## Software Used
 - MATLAB
 - Numerical integration
@@ -67,15 +69,14 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ![net_variable](plots/net_variable.png)
 
 
+### Back Work Comparison
 ### Back Work Ratio vs Pressure Ratio (Constant Cp)
 ![Back Work Constant](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
 
 ### Back Work Ratio vs Pressure Ratio (Variable Cp)
 ![Back Work Variable](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Variable%20Cp.png)
 
+
+### Error Comparison
 ### Performance Error Due to Constant Cp Assumption
 ![Error](plots/Error.png)
-
-### Comparison of Constant Cp and Variable Cp Predictions
-![Comparison](plots/Variable%20Cp%20Brayton%20Cycle.pdf)
-

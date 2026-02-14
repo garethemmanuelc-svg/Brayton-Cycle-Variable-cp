@@ -41,3 +41,4 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ---
 ## Sample Results
 ### Work Output Comparison
+![Work Plot](plots/.png)

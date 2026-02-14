@@ -3,9 +3,7 @@ Thermodynamic modelling of a gas turbine Brayton cycle using MATLAB to compare c
 ## Numerical Analysis of Brayton Cycle Performance Using Temperature-Dependent Specific Heat
 This project investigates how temperature-dependent specific heat affects the performance prediction of a gas turbine Brayton cycle. Traditional thermodynamic analysis assumes constant specific heat (cp), however at high turbine inlet temperatures this assumption becomes inaccurate. A MATLAB numerical model was developed to compare constant cp and variable cp formulations based on NASA thermodynamic data.
 ## Project Motivation
-- Modern gas turbines operate at turbine inlet temperatures above 1500 K. 
-- At these temperatures, the specific heat of air varies significantly with temperature. 
-- Traditional Brayton cycle analysis assumes constant specific heat, which can lead to incorrect performance predictions. 
+Modern gas turbines operate at turbine inlet temperatures above 1500 K. At these temperatures, the specific heat of air varies significantly with temperature. Traditional Brayton cycle analysis assumes constant specific heat, which can lead to incorrect performance predictions. 
 
 This project investigates how variable specific heat influences predicted efficiency, work output, and optimum pressure ratio of the cycle.
 

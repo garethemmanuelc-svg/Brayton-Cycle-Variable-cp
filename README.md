@@ -82,6 +82,6 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ![Error](plots/Error.png)
 
 ## Author
-# Gareth Emmanuel Chingwe
-# BSc Aerospace Engineering 
-# Independent self-initiated research project
+### Gareth Emmanuel Chingwe
+### BSc Aerospace Engineering 
+### Independent self-initiated research project

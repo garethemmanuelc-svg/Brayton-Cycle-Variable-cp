@@ -50,7 +50,7 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ---
 ---
 ## Results Visualisation
-### Thermal Efficiency Comparison
+## Thermal Efficiency Comparison
 
 ### Brayton Cycle (Constant Gamma Representation)
 ![Brayton Cycle](plots/constant_cp.png)
@@ -59,7 +59,7 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ### Brayton Cycle (Variable Cp Gamma Representation)
 ![Brayton Cycle](plots/Variable%20Cp%20Brayton%20Cycle.png)
 
-### Network Output Comparison 
+## Network Output Comparison 
 
 ### Net Work Output vs Pressure Ratio (Constant Cp)
 ![net_variable](plots/net_constant.png)
@@ -69,7 +69,7 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ![net_variable](plots/net_variable.png)
 
 
-### Back Work Comparison
+## Back Work Comparison
 ### Back Work Ratio vs Pressure Ratio (Constant Cp)
 ![Back Work Constant](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
 
@@ -77,6 +77,11 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ![Back Work Variable](plots/Back%20Work%20Ratio%20vs%20Pressure%20Ratio%20Variable%20Cp.png)
 
 
-### Error Comparison
+## Error Comparison
 ### Performance Error Due to Constant Cp Assumption
 ![Error](plots/Error.png)
+
+## Author
+ Gareth Emmanuel Chingwe
+ BSc Aerospace Engineering 
+ Independent self-initiated research project

@@ -47,10 +47,10 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ![Brayton Cycle](plots/Constant%20gamma%20Brayton%20Cycle.png)
 
 
-
-
 ### Brayton Cycle (Variable Cp Gamma Representation)
 ![Brayton Cycle](plots/Variable%20Cp%20Brayton%20Cycle.png)
+
+### Network Output Comparison 
 
 ### Net Work Output vs Pressure Ratio (Constant Cp)
 ![Net Work Constant](plots/Net%20Work%20Output%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)

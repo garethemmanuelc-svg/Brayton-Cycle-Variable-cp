@@ -41,4 +41,4 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ---
 ## Sample Results
 ### Work Output Comparison
-![Work Plot](plots/.png)
+![Work Plot](plots/Back Work Ratio vs Pressure Ratio Constant Gamma.png)

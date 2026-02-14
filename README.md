@@ -53,7 +53,8 @@ Future work will include component efficiencies, pressure losses, intercooling a
 ### Network Output Comparison 
 
 ### Net Work Output vs Pressure Ratio (Constant Cp)
-![Net Work Constant](plots/Net%20Work%20Output%20vs%20Pressure%20Ratio%20Constant%20Gamma.png)
+![Net Work Constant](plots/network_constant.png)
+
 
 ### Net Work Output vs Pressure Ratio (Variable Cp)
 ![Net Work Variable](plots/Net%20Work%20Output%20vs%20Pressure%20Ratio%20Variable%20Cp.png)

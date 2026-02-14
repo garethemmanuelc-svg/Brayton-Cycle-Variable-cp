@@ -39,14 +39,14 @@ Future work will include component efficiencies, pressure losses, intercooling a
 4. Run the script
 5. The program calculates compressor and turbine states and generates performance plots
 ---
-## Sample Results
-### Work Output Comparison
 ---
 
 ## Results Visualisation
+### Thermal Efficiency Comparison
 
 ### Brayton Cycle (Constant Gamma Representation)
 ![Brayton Cycle](plots/Constant%20gamma%20Brayton%20Cycle.png)
+
 ### Brayton Cycle (Variable Cp Gamma Representation)
 ![Brayton Cycle](plots/Variable%20Cp%20Brayton%20Cycle.png)
 

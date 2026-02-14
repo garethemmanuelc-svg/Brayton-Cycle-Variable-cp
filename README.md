@@ -39,4 +39,7 @@ Future work will include component efficiencies, pressure losses, intercooling a
 4. Run the script
 5. The program calculates compressor and turbine states and generates performance plots
 ---
----
+## Sample Results
+
+### Thermal Efficiency Comparison
+![Efficiency Plot](plots/efficiency.png)
